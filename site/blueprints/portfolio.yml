@@ -18,12 +18,12 @@ fields:
     required: true
     width: 1/2
 
-  coverimage:
+  thumb:
     label: Маленькая картинка
     type: image
     width: 1/2
 
-  image:
+  pic:
     label: Большая картинка
     type: image
     width: 1/2
