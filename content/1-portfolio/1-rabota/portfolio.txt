@@ -1,0 +1,29 @@
+Title: Работа
+
+----
+
+Coverimage: 
+
+----
+
+Image: 
+
+----
+
+Date: 2017-11-19
+
+----
+
+Lead: Правоверный кококо
+
+----
+
+Text: 123
+
+----
+
+Cat: info, draw
+
+----
+
+Techs: vector, affinity

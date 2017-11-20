@@ -1,0 +1,61 @@
+title: Портфолио
+
+pages: false
+
+fields:
+  title:
+    label: Название
+    type:  title
+    width: 1/2
+
+  date:
+    icon: calendar
+    label: Дата
+    type: date
+    format: LL
+    placeholder: Выбери дату
+    default: today
+    required: true
+    width: 1/2
+
+  coverimage:
+    label: Маленькая картинка
+    type: image
+    width: 1/2
+
+  image:
+    label: Большая картинка
+    type: image
+    width: 1/2
+
+  cat:
+    label: Категории
+    type: checkboxes
+    options:
+      info: Инфографика
+      illustrations: Иллюстрации
+      ui: UI
+      restore: Реставрации
+      scrap: Скрапбукинг
+      draw: Живопись
+      smm: SMM
+      adv: Реклама
+      package: Упаковки
+
+  lead:
+    label: Короткий текст
+    type: textarea
+
+  text:
+    label: Длинный текст
+    type: textarea
+
+  techs:
+    label: Техники
+    type: checkboxes
+    options:
+      vector: Вектор
+      raster: Растр
+      photoshop: Adobe Photoshop
+      affinity: Affinity Designer
+      corel: Corel Draw

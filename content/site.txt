@@ -1,0 +1,13 @@
+Title: noch212
+
+----
+
+Author: noch212
+
+----
+
+Description: This is Kirby's Starterkit.
+
+----
+
+Copyright: © 20015–(date: Year) noch212

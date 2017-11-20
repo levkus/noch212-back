@@ -1,0 +1,38 @@
+title: Article
+
+pages: false
+
+fields:
+  title:
+    label: Название
+    type:  title
+    width: 1/2
+
+  date:
+    icon: calendar
+    label: Дата
+    type: date
+    format: LL
+    placeholder: Выбери дату
+    default: today
+    required: true
+    width: 1/2
+
+  coverimage:
+    label: Маленькая картинка
+    type: image
+    width: 1/2
+
+  image:
+    label: Большая картинка
+    type: image
+    width: 1/2
+
+
+  lead:
+    label: Короткий текст
+    type: textarea
+
+  text:
+    label: Длинный текст
+    type: textarea

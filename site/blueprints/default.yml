@@ -1,0 +1,10 @@
+title: Page
+
+fields:
+  title:
+    label: Название
+    type:  text
+
+  # text:
+  #   label: Text
+  #   type:  textarea
