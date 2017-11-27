@@ -32,15 +32,15 @@ fields:
     label: Категории
     type: checkboxes
     options:
-      info: Инфографика
+      infographics: Инфографика
       illustrations: Иллюстрации
       ui: UI
       restore: Реставрации
-      scrap: Скрапбукинг
-      draw: Живопись
+      scrapbooking: Скрапбукинг
+      drawings: Живопись
       smm: SMM
-      adv: Реклама
-      package: Упаковки
+      ads: Реклама
+      printed: Печатная продукция
 
   lead:
     label: Короткий текст
@@ -59,3 +59,6 @@ fields:
       photoshop: Adobe Photoshop
       affinity: Affinity Designer
       corel: Corel Draw
+      sai: Paint Tool Sai
+      powerpoint: Microsoft PowerPoint
+      keynote: Apple Keynote
